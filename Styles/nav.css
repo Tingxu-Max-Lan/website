@@ -1,0 +1,15 @@
+.navbar {
+  margin-bottom: 0px !important;
+}
+
+
+.navbar-custom{
+	background-color: #312e2b;
+	border: none;
+	position: sticky;
+	top: 0;
+}
+li a:hover{
+	color:black !important;
+
+}

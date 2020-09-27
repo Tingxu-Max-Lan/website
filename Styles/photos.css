@@ -1,0 +1,48 @@
+@import "./nav.css";
+
+.row {
+	display: flex;
+	justify-content: space-between
+}
+
+.column {
+	margin: 10px;
+	width: 30%;
+}
+
+.image-containter-shadow {
+	box-shadow: 8px 8 p100%);
+}
+
+
+.image-containter {
+	margin-bottom: 30px;
+	display: flex;
+	flex-direction: column;
+	max-width: 100%;
+}
+
+.image-containter-shadow {
+	margin-bottom: 30px;
+}
+
+img {
+	width: 100%;
+	object-fit: cover;
+	height: 100%;
+}
+
+video {
+	width: 100%;
+	height: 100%;
+}
+
+.last-image-column-two: {
+	height: 2000px;
+}
+
+body {
+
+	background-image: linear-gradient(#312e2b, #4b4847);
+
+}
