@@ -58,3 +58,10 @@ body {
 .photo_four{
 	height:400px;
 }
+.caption{
+	color:white;
+	text-align:center;
+	font-style:italic;
+	max-width: 360px ;
+	word-wrap:break-word;
+}

@@ -1,1 +1,16 @@
 @import "./nav.css";
+
+body {
+	background-image: linear-gradient(#312e2b, #4b4847);
+}
+.caption{
+	color:white;
+	text-align: center;
+	padding-top: 15px;
+}
+.photo_one{
+	border-radius: 50%;
+			margin:auto;
+	display: flex; 
+
+}
