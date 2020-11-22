@@ -11,7 +11,7 @@
 }
 
 .image-containter-shadow {
-	box-shadow: 8px 8 p100%);
+	box-shadow: 8px 8px 100%;
 }
 
 
@@ -37,8 +37,8 @@ video {
 	height: 100%;
 }
 
-.last-image-column-two: {
-	height: 2000px;
+.last-image-column-two{
+	height: 600px;
 }
 
 body {
@@ -64,4 +64,7 @@ body {
 	font-style:italic;
 	max-width: 360px ;
 	word-wrap:break-word;
+}
+.github{
+	width: 2%;
 }
