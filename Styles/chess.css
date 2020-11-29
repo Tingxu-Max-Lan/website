@@ -33,6 +33,17 @@ body {
   display: flex;
   flex-direction: row;
 }
-.text {
+.bio-container {
   color: white;
+}
+.text{
+  color: white
+}
+.row {
+	display: flex;
+	justify-content: space-between
+}
+
+.column {
+	margin: 10px;
 }
