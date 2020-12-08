@@ -52,6 +52,9 @@ h1 {
   display: flex;
   flex-direction: column;
 }
+.featured-projects-list {
+  list-style-type: square;
+}
 .github {
   width: 2%;
 }

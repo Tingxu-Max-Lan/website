@@ -60,10 +60,11 @@ body {
 }
 .caption{
 	color:white;
-	text-align:center;
-	font-style:italic;
-	max-width: 360px ;
-	word-wrap:break-word;
+	text-align: center;
+	font-style: italic;
+	font-size: 120%;	
+	max-width: 400px ;
+	word-wrap: break-word;
 }
 .github{
 	width: 2%;
